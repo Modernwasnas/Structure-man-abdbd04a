@@ -1,0 +1,17 @@
+td {
+	border-style:solid;
+	padding:1em; 
+}
+
+th{
+	background-color:lightgray;
+	padding:1em;
+}
+
+.t1 {
+	background-color:lightgray;
+}
+
+.t2 {
+	background-color:darkgray;
+}
